@@ -23,9 +23,9 @@ Technologies Used
 
 Getting Started
 
-    Clone the repository: git clone <repository-url>
-    Install dependencies: npm install
-    Set up the MongoDB connection: Update the mongoURI in the config.ts file with your MongoDB connection URL.
+    Clone the repository: git clone <this-repository-url>
+    Install dependencies: npm install @types/express, @types/mongoose, axios, memcached, expres-validator
+    Set up the MongoDB connection: Update the mongoURI (make sure to save it and add the file to .gitignore so no one takes it) in the config.ts file with your MongoDB connection URL.
     Start the server: npm start
     Access the application in your browser at http://localhost:3000
 
@@ -37,7 +37,7 @@ API Endpoints
 
 Contributing
 
-Contributions are welcome! If you'd like to contribute to Recipe Bot, please follow these steps:
+Contributions are welcome! If you'd like to contribute to the Recipe Bot, please follow these steps:
 
     Fork the repository.
     Create a new branch for your feature or bug fix: git checkout -b feature-name
@@ -49,4 +49,4 @@ License
 
 This project is licensed under the MIT License.
 
-Feel free to customize this README file to fit the specific details of your Recipe Bot project. Include instructions for installation, configuration, usage, and any other relevant information.
+Feel free to customize this README file to fit the specific details of your Recipe Bot project. Include instructions for installation, configuration, usage, feedback, and any other relevant information. Thanks!
