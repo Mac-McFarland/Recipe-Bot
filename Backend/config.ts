@@ -1,0 +1,2 @@
+//Used for sensitive information like database connection strings, API keys, etc.
+export const mongoURI = 'mongodb+srv://Mac0159:8Ro0Fk48w6oIzZeI@cluster0.flhfiho.mongodb.net/?retryWrites=true&w=majority';
