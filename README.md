@@ -2,8 +2,8 @@
 
 Recipe Bot
 
-Recipe Bot is a web application that allows users to search for recipes based on keywords and save their favorite recipes for later use with a sign in.
-Features
+Recipe Bot is a web application that allows users to search for recipes based on keywords and save their favorite recipes for later use with a sign in. Backend is completed, frontend is now underway.
+Features 
 
     User Authentication: Users can sign up and log in to their accounts to access personalized features.
     Recipe Search: Users can enter keywords to search for recipes matching their preferences.
